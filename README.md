@@ -1,0 +1,5 @@
+- 👋 Hi, I’m Danny Mills
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning nextjs
+- 💞️ I’m looking to collaborate on discord bots
+- 📫 How to reach me benacker519@gmail.com
